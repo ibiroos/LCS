@@ -1,0 +1,28 @@
+{
+    "path_in": "",
+    "path_out": "",
+    "file_in": "",
+    "file_out": "",
+    "nx": 1,
+    "ny": 1,
+    "vector": 0,
+    "scalar": 1,
+    "u": "eastward_velocity",
+    "v": "northward_velocity",
+    "scalar_magnitude": "",
+    "resolution": "i",
+    "scale": 5,
+    "n_time": "all",
+    "n_level": 9,
+    "title": "",
+    "style": "cvector",
+    "limits": [
+        42.08,
+        42.45,
+        -9.004,
+        -8.601
+    ],
+    "wms_url": "https://ows.emodnet-bathymetry.eu/wms?",
+    "wms_layers": ["emodnet:mean_atlas_land", "coastlines"]
+
+}
